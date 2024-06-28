@@ -1,5 +1,10 @@
 # Unit 3: Collaborative Code
 
+[![Deploy Jekyll with GitHub Pages](https://github.com/ssis-aa/collaborative-code/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/ssis-aa/collaborative-code/actions/workflows/jekyll-gh-pages.yml)
+[![GitHub release](https://img.shields.io/github/release/ssis-aa/collaborative-code.svg)](https://GitHub.com/ssis-aa/collaborative-code/releases/)
+[![MIT license](https://img.shields.io/github/license/ssis-aa/collaborative-code)](https://ssis-aa.mit-license.org/)
+
+
 In [Advanced Automation](https://github.com/ssis-aa) at [SSIS](https://www.ssis.edu.vn/). With [its own website](https://sites.google.com/ssis.edu.vn/automation).
 
 ## Circle K
