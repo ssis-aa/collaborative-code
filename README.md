@@ -19,4 +19,6 @@ Results can be found at https://github.com/ssis-aa/generative-art-collaboration2
 
 ![day 6](https://raw.githubusercontent.com/ssis-aa/generative-art-collaboration2022/main/docs/2022-12-23.png)
 
-And the code is [here on p5js.org](https://editor.p5js.org/mkreier/sketches/vy0dgv6Cp)
+And the code is [here on p5js.org](https://editor.p5js.org/mkreier/sketches/vy0dgv6Cp).
+
+Not sure what this was created with, but it still runs in p5js in February 2026 on version 1.5.0. Since January 2025 an updated framework with v2.0 started that broke some earlier workflows. February 2026 also introduced WebGPU.
