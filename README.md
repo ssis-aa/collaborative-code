@@ -1,9 +1,8 @@
 # Unit 3: Collaborative Code
 
-[![Deploy Jekyll with GitHub Pages](https://github.com/ssis-aa/collaborative-code/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/ssis-aa/collaborative-code/actions/workflows/jekyll-gh-pages.yml)
-[![GitHub release](https://img.shields.io/github/release/ssis-aa/collaborative-code.svg)](https://GitHub.com/ssis-aa/collaborative-code/releases/)
 [![MIT license](https://img.shields.io/github/license/ssis-aa/collaborative-code)](https://ssis-aa.mit-license.org/)
-
+![GitHub Release](https://img.shields.io/github/v/release/ssis-aa/collaborative-code)
+[![Deploy Jekyll site to Pages](https://github.com/ssis-aa/collaborative-code/actions/workflows/pages.yml/badge.svg)](https://github.com/ssis-aa/collaborative-code/actions/workflows/pages.yml)
 
 In [Advanced Automation](https://github.com/ssis-aa) at [SSIS](https://www.ssis.edu.vn/). With [its own website](https://sites.google.com/ssis.edu.vn/automation).
 
